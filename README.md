@@ -2,6 +2,8 @@
 
 This repository contains the code and scripts for a classification model deployed in Azure. The model pipeline handles data preparation, training, deployment, and scoring for predictions.
 
+This project is integrated with Azure Machine Learning for scalable model training and deployment. The trained model is saved as a model.pkl file in Azure, and the scoring script is used for real-time predictions.
+
 Project Structure
 The project is organized into five key components:
 
